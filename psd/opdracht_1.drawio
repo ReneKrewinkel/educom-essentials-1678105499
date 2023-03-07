@@ -1,0 +1,67 @@
+<mxfile host="65bd71144e">
+    <diagram id="1Fnlbtid2sQlkrigxNMO" name="Page-1">
+        <mxGraphModel dx="849" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="190" width="420" height="300" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="190" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="Schuif stoel 50 cm naar achteren" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="305" y="190" width="240" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Van werkplek naar de deur lopen&lt;/b&gt;&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="290" y="150" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="220" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="Draai stoel 90 graden met de klok mee" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="320" y="220" width="210" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="250" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="Sta op" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="395" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="280" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="310" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="340" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="370" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="Loop rechtuit totdat je 20 cm vanaf de muur bent" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="280" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="Draai 90 graden tegen de klok in" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="300" y="310" width="250" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="Loop rechtuit totdat je 20 cm vanaf de kast bent" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="285" y="340" width="280" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="Draai 90 graden tegen de klok in" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="325" y="370" width="200" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="Loop rechtuit tot de deur opening zich aan je rechterkant bevind" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="400" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="Draai 90 graden met de klok mee" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="430" width="420" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="Loop rechtuit totdat je in de deuropening staat en stop" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="215" y="460" width="420" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
